@@ -1,0 +1,1 @@
+# jest-bug-test-file-stub
